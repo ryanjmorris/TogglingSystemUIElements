@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TogglingSystemUIElements</string>
+
+    <string name="hello_world">Toggling Dark Mode</string>
+    <string name="hide_controls">Hiding Nav Control</string>
+    <string name="show_fullscreen">Toggling Fullscreen</string>
+    <string name="action_settings">Settings</string>
+</resources>
